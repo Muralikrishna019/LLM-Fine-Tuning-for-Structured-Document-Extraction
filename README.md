@@ -1,6 +1,6 @@
 # LLM Fine-Tuning for Structured Document Extraction
 
-Fine-tuned Microsoft's **Phi-3-mini** language model using **LoRA/PEFT** to extract structured JSON from semi-structured HTML documents. The project demonstrates an end-to-end supervised fine-tuning workflow including dataset preparation, model training, evaluation on a held-out test set, and deployment using GGUF for lightweight local inference.
+Fine-tuned **Phi-3-mini** language model using **LoRA/PEFT** to extract structured JSON from semi-structured HTML documents. The project demonstrates an end-to-end supervised fine-tuning workflow including dataset preparation, model training, evaluation on a held-out test set, and deployment using GGUF for lightweight local inference.
 
 ---
 
