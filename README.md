@@ -203,11 +203,3 @@ Through this project I learned:
 - Build a web interface for document upload and extraction
 
 ---
-
-# Acknowledgements
-
-- Microsoft Phi-3
-- Hugging Face
-- Unsloth
-- TRL
-- PEFT
