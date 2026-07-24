@@ -139,13 +139,6 @@ Metrics:
 - Exact Match Accuracy
 - Field Accuracy
 
-Results
-
-| Metric | Baseline | Fine-tuned |
-|---------|----------|------------|
-| Exact Match | 0% | 100% |
-| Field Accuracy | 0% | 100% |
-
 ---
 
 # Deployment
